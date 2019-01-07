@@ -1511,7 +1511,7 @@ h3#comments {
 .services-title {
     float: left;
     width: 75%;
-    padding-top: 11px;
+    padding-top: 13px;
 }
 
 .services h3 {
@@ -2899,6 +2899,7 @@ input.hs-button.primary.large{
   left: 41.07%;
   border: 2px solid white;
   margin-top: 205px;
+  transform: rotate(270deg);
 }
 
 
@@ -3072,6 +3073,7 @@ body.students a{color:#60BDDB} /*Causing the social icons to be blue*/
   border-left: 1px solid #efefef;
   border-right: 1px solid #efefef;
   border-bottom: 0;
+  transform: rotate(270deg);
 }
 
 /*========================= Profile Background Image ================================*/
